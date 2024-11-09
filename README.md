@@ -1,2 +1,1 @@
-# SwapProWallet
-Multi-Sig wallet with swap functionality
+# Solidity Smart Contract Deploy Toolkit
